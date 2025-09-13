@@ -1,0 +1,544 @@
+{
+    "default_settings": {
+        "buy_1": 0.1,
+        "buy_2": 2,
+        "priority_fee": 0.001,
+        "slippage": 12.0,
+        "sell_1": 50,
+        "sell_2": 100
+    },
+    "allowed_users": {
+        "5045644660": "",
+        "457363053": "",
+        "5394040675": ""
+    },
+    "users": {
+        "5394040675": {
+            "wallet": {
+                "public_key": "CGLQ4EoshNFrrJfB6bsKtCjZBCzY2T9giMMZcXtdvkWG",
+                "private_key": ""
+            },
+            "tokens_history": {
+                "8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5": {
+                    "amount_purchased_lossless": 0,
+                    "amount_sold_lossless": 0
+                },
+                "HEHT1eKNsTnuMAQaSM4ac8r3ynckmquxA3hUun5Npump": {
+                    "amount_purchased_lossless": 0,
+                    "amount_sold_lossless": 0
+                }
+            },
+            "settings": {
+                "buy_1": 0.1,
+                "buy_2": 2,
+                "priority_fee": 0.001,
+                "slippage": 12.0,
+                "sell_1": 50,
+                "sell_2": 100
+            },
+            "accepted_terms": true,
+            "referral_code": "KQFGMN",
+            "messages": {
+                "4858": {
+                    "type": null,
+                    "current_token": "HEHT1eKNsTnuMAQaSM4ac8r3ynckmquxA3hUun5Npump"
+                },
+                "4956": {
+                    "type": null,
+                    "current_token": "HEHT1eKNsTnuMAQaSM4ac8r3ynckmquxA3hUun5Npump"
+                },
+                "5047": {
+                    "type": "positions",
+                    "current_page": 1,
+                    "wallet_positions": [
+                        {
+                            "token_address": "HEHT1eKNsTnuMAQaSM4ac8r3ynckmquxA3hUun5Npump",
+                            "name": "Flow Agent",
+                            "symbol": "FLOW",
+                            "supply": 999953618414569,
+                            "decimals": 6,
+                            "pair_address": "FgbYXkHT8PAmnVc6qSyGhksHs5HbhvrqsLgPyZGLR6a2",
+                            "token_price_usd": "0.002246007855120579562559995516",
+                            "fdv_usd": "2245903.681715368590328208407",
+                            "liquidity_usd": "263761.6755791393629419872014",
+                            "token_balance": "528.58487",
+                            "token_balance_sol": "0.008034146106231917049471693153",
+                            "token_balance_usd": "1.187205770117890382400432097"
+                        },
+                        {
+                            "token_address": "8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5",
+                            "name": "LOCK IN",
+                            "symbol": "LOCKIN",
+                            "supply": 994368775594733669,
+                            "decimals": 9,
+                            "pair_address": "AtWMAA6T9t8cq8XCccCFPGDNNQYXhScuNuY6WVRi7FKe",
+                            "token_price_usd": "0.007904240230587894785520447885",
+                            "fdv_usd": "7859729.680096320260701800193",
+                            "liquidity_usd": "709248.9847712493409289891133",
+                            "token_balance": "0",
+                            "token_balance_sol": "0E-32",
+                            "token_balance_usd": "0E-34"
+                        }
+                    ]
+                },
+                "5050": {
+                    "type": "positions",
+                    "current_page": 1,
+                    "wallet_positions": [
+                        {
+                            "token_address": "HEHT1eKNsTnuMAQaSM4ac8r3ynckmquxA3hUun5Npump",
+                            "name": "Flow Agent",
+                            "symbol": "FLOW",
+                            "supply": 999953618414569,
+                            "decimals": 6,
+                            "pair_address": "FgbYXkHT8PAmnVc6qSyGhksHs5HbhvrqsLgPyZGLR6a2",
+                            "token_price_usd": "0.002253531533054427345489326218",
+                            "fdv_usd": "2253427.010689105529167028622",
+                            "liquidity_usd": "264645.2245363815229518422712",
+                            "token_balance": "528.58487",
+                            "token_balance_sol": "0.008034146106231917049471693153",
+                            "token_balance_usd": "1.191182672440475181339920585"
+                        },
+                        {
+                            "token_address": "8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5",
+                            "name": "LOCK IN",
+                            "symbol": "LOCKIN",
+                            "supply": 994368775594733669,
+                            "decimals": 9,
+                            "pair_address": "AtWMAA6T9t8cq8XCccCFPGDNNQYXhScuNuY6WVRi7FKe",
+                            "token_price_usd": "0.007930717857400786495061170776",
+                            "fdv_usd": "7886058.205450909680266308490",
+                            "liquidity_usd": "711624.8272796188910660930560",
+                            "token_balance": "0",
+                            "token_balance_sol": "0E-32",
+                            "token_balance_usd": "0E-35"
+                        }
+                    ]
+                },
+                "5059": {
+                    "type": "positions",
+                    "current_page": 1,
+                    "wallet_positions": [
+                        {
+                            "token_address": "HEHT1eKNsTnuMAQaSM4ac8r3ynckmquxA3hUun5Npump",
+                            "name": "Flow Agent",
+                            "symbol": "FLOW",
+                            "supply": 999953618414569,
+                            "decimals": 6,
+                            "pair_address": "FgbYXkHT8PAmnVc6qSyGhksHs5HbhvrqsLgPyZGLR6a2",
+                            "token_price_usd": "0.002249797620062369794880617348",
+                            "fdv_usd": "2249693.270881852411596427780",
+                            "liquidity_usd": "264118.1696873945494917279575",
+                            "token_balance": "528.58487",
+                            "token_balance_sol": "0.008039541526007146632767021272",
+                            "token_balance_usd": "1.189208982526977129918897787"
+                        },
+                        {
+                            "token_address": "8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5",
+                            "name": "LOCK IN",
+                            "symbol": "LOCKIN",
+                            "supply": 994368775594733669,
+                            "decimals": 9,
+                            "pair_address": "AtWMAA6T9t8cq8XCccCFPGDNNQYXhScuNuY6WVRi7FKe",
+                            "token_price_usd": "0.007912263753864528636896424518",
+                            "fdv_usd": "7867708.021112862509054681495",
+                            "liquidity_usd": "709968.9370465128409705357626",
+                            "token_balance": "0",
+                            "token_balance_sol": "0E-32",
+                            "token_balance_usd": "0E-34"
+                        }
+                    ]
+                },
+                "5064": {
+                    "type": "positions",
+                    "current_page": 2,
+                    "wallet_positions": [
+                        {
+                            "token_address": "HEHT1eKNsTnuMAQaSM4ac8r3ynckmquxA3hUun5Npump",
+                            "name": "Flow Agent",
+                            "symbol": "FLOW",
+                            "supply": 999953618414569,
+                            "decimals": 6,
+                            "pair_address": "FgbYXkHT8PAmnVc6qSyGhksHs5HbhvrqsLgPyZGLR6a2",
+                            "token_price_usd": "0.002293284497375358015545073639",
+                            "fdv_usd": "2293178.131204525412482001425",
+                            "liquidity_usd": "266932.2529324154400956103927",
+                            "token_balance": "528.58487",
+                            "token_balance_sol": "0.008178353042222162716572329839",
+                            "token_balance_usd": "1.212195487918168957850350729"
+                        },
+                        {
+                            "token_address": "8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5",
+                            "name": "LOCK IN",
+                            "symbol": "LOCKIN",
+                            "supply": 994368775594733669,
+                            "decimals": 9,
+                            "pair_address": "AtWMAA6T9t8cq8XCccCFPGDNNQYXhScuNuY6WVRi7FKe",
+                            "token_price_usd": "0.007928310800417796339648377786",
+                            "fdv_usd": "7883664.703145947005760444100",
+                            "liquidity_usd": "711408.8415970398410536290612",
+                            "token_balance": "0",
+                            "token_balance_sol": "0E-32",
+                            "token_balance_usd": "0E-34"
+                        }
+                    ]
+                },
+                "5068": {
+                    "type": "positions",
+                    "current_page": 1,
+                    "wallet_positions": [
+                        {
+                            "token_address": "HEHT1eKNsTnuMAQaSM4ac8r3ynckmquxA3hUun5Npump",
+                            "name": "Flow Agent",
+                            "symbol": "FLOW",
+                            "supply": 999953618414569,
+                            "decimals": 6,
+                            "pair_address": "FgbYXkHT8PAmnVc6qSyGhksHs5HbhvrqsLgPyZGLR6a2",
+                            "token_price_usd": "0.002319049545141451396343515010",
+                            "fdv_usd": "2318941.983946854696424596169",
+                            "liquidity_usd": "268595.4407347385915545601166",
+                            "token_balance": "528.58487",
+                            "token_balance_sol": "0.008259648961270488632488075985",
+                            "token_balance_usd": "1.225814502342153217947555357"
+                        },
+                        {
+                            "token_address": "8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5",
+                            "name": "LOCK IN",
+                            "symbol": "LOCKIN",
+                            "supply": 994368775594733669,
+                            "decimals": 9,
+                            "pair_address": "AtWMAA6T9t8cq8XCccCFPGDNNQYXhScuNuY6WVRi7FKe",
+                            "token_price_usd": "0.007938473929901532551391281522",
+                            "fdv_usd": "7893770.601766900520340760416",
+                            "liquidity_usd": "712320.7811457069411062548170",
+                            "token_balance": "0",
+                            "token_balance_sol": "0E-32",
+                            "token_balance_usd": "0E-34"
+                        }
+                    ]
+                }
+            },
+            "awaiting_input": null,
+            "dialogs": {},
+            "portfolio": {
+                "native_token": "0.002612703000000000073954620205540777533315122127532958984375",
+                "native_token_usd_worth": "0.3877512522300000109756051847",
+                "tokens": {
+                    "8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5": {
+                        "name": "LOCK IN",
+                        "symbol": "LOCKIN",
+                        "supply": 994368775594733669,
+                        "decimals": 9,
+                        "pair_address": "AtWMAA6T9t8cq8XCccCFPGDNNQYXhScuNuY6WVRi7FKe",
+                        "token_price_usd": "0.007938473929901532551391281522",
+                        "fdv_usd": "7893770.601766900520340760416",
+                        "liquidity_usd": "712320.7811457069411062548170",
+                        "token_balance": "0",
+                        "token_balance_sol": "0E-32",
+                        "token_balance_usd": "0E-34"
+                    },
+                    "HEHT1eKNsTnuMAQaSM4ac8r3ynckmquxA3hUun5Npump": {
+                        "name": "Flow Agent",
+                        "symbol": "FLOW",
+                        "supply": 999953618414569,
+                        "decimals": 6,
+                        "pair_address": "FgbYXkHT8PAmnVc6qSyGhksHs5HbhvrqsLgPyZGLR6a2",
+                        "token_price_usd": "0.002319049545141451396343515010",
+                        "fdv_usd": "2318941.983946854696424596169",
+                        "liquidity_usd": "268595.4407347385915545601166",
+                        "token_balance": "528.58487",
+                        "token_balance_sol": "0.008259648961270488632488075985",
+                        "token_balance_usd": "1.225814502342153217947555357"
+                    }
+                },
+                "sol_worth": "0.01087235196127048870644269619",
+                "usd_worth": "1.613565754572153228923160542"
+            }
+        },
+        "5045644660": {
+            "wallet": {
+                "public_key": "BWqguz89Ty6D3z66Gr83ifMbhsG38aTdjkhVe8YCmaEw",
+                "private_key": ""
+            },
+            "tokens_history": {
+                "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC": {
+                    "amount_purchased_lossless": 0,
+                    "amount_sold_lossless": 0
+                },
+                "pGmqZA8iruRh7dtRH4x22cU4H5wPPWsJUA9h9vapump": {
+                    "amount_purchased_lossless": 0,
+                    "amount_sold_lossless": 0
+                },
+                "GAMwtMB6onAvBNBQJCJFuxoaqfPH8uCQ2dewNMVVpump": {
+                    "amount_purchased_lossless": 0,
+                    "amount_sold_lossless": 0
+                },
+                "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263": {
+                    "amount_purchased_lossless": 0,
+                    "amount_sold_lossless": 0
+                },
+                "B4eppPm1Dj5Nd7KsN1cdJfQgWSSqqSfi9BsNZYkUkXm2": {
+                    "amount_purchased_lossless": 0,
+                    "amount_sold_lossless": 0
+                }
+            },
+            "settings": {
+                "buy_1": 0.5,
+                "buy_2": 2,
+                "priority_fee": 0.001,
+                "slippage": 3.0,
+                "sell_1": 50,
+                "sell_2": 100
+            },
+            "accepted_terms": true,
+            "referral_code": "LDHCK8",
+            "messages": {
+                "4829": {
+                    "type": "positions",
+                    "current_page": 1,
+                    "wallet_positions": [
+                        {
+                            "token_address": "GAMwtMB6onAvBNBQJCJFuxoaqfPH8uCQ2dewNMVVpump",
+                            "name": "AgentTank",
+                            "symbol": "TANK",
+                            "supply": 999965829175200,
+                            "decimals": 6,
+                            "pair_address": "7fbTnN92i1NGAcMqw7qtWfvZQ1M1NDfcv9Pc4bsyZ1qz",
+                            "token_price_usd": "0.004102234638923424549173866222",
+                            "fdv_usd": "4102094.462182289405572980382",
+                            "liquidity_usd": "482734.7130487050295732842642",
+                            "token_balance": "581.776778",
+                            "token_balance_sol": "0.01730286994006280956241915792",
+                            "token_balance_usd": "2.386584850832863322944474452"
+                        },
+                        {
+                            "token_address": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC",
+                            "name": "ai16z",
+                            "symbol": "ai16z",
+                            "supply": 1099998875421246811,
+                            "decimals": 9,
+                            "pair_address": "8sN9549P3Zn6xpQRqpApN57xzkCh6sJxLwuEjcG2W4Ji",
+                            "token_price_usd": "0.3444012623935963684966585226",
+                            "fdv_usd": "378841001.3266137460380865132",
+                            "liquidity_usd": "3464784.505346719733822095893",
+                            "token_balance": "0.393755053",
+                            "token_balance_sol": "0.0009831779694559373953310324578",
+                            "token_balance_usd": "0.1356097373270574449380093069"
+                        },
+                        {
+                            "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+                            "name": "Bonk",
+                            "symbol": "Bonk",
+                            "supply": 8886359974108604360,
+                            "decimals": 5,
+                            "pair_address": "6oFWm7KPLfxnwMb3z5xwBoXNSPP3JJyirAPqPSiVcnsp",
+                            "token_price_usd": "0.00001367381514754821203002004396",
+                            "fdv_usd": "1215104436.205323715616931842",
+                            "liquidity_usd": "937785.0656552707845126365948",
+                            "token_balance": "9387.12328",
+                            "token_balance_sol": "0.0009306009461173526866481346590",
+                            "token_balance_usd": "0.1283577884979664560693772135"
+                        },
+                        {
+                            "token_address": "pGmqZA8iruRh7dtRH4x22cU4H5wPPWsJUA9h9vapump",
+                            "name": "Artificial Isle Clams",
+                            "symbol": "clams",
+                            "supply": 989754005073480,
+                            "decimals": 6,
+                            "pair_address": "CPZngqrx3ryo5XLKEfJNRnwkLnfH6wcKcg4344XjPK47",
+                            "token_price_usd": "0.00003303753454364997527249634389",
+                            "fdv_usd": "32699.03213233100838237162289",
+                            "liquidity_usd": "29289.68393979185863429393067",
+                            "token_balance": "1889.992992",
+                            "token_balance_sol": "0.0004526985337523118347421980736",
+                            "token_balance_usd": "0.06244070876045637136599138029"
+                        },
+                        {
+                            "token_address": "B4eppPm1Dj5Nd7KsN1cdJfQgWSSqqSfi9BsNZYkUkXm2",
+                            "name": "JINX",
+                            "symbol": "JINX",
+                            "supply": 790104516136418180,
+                            "decimals": 9,
+                            "pair_address": "H72LGm51KajBhJniXh3Q3VakQzXToEuBHFvfAWPT9JmR",
+                            "token_price_usd": "0.00004619586024753046236402765138",
+                            "fdv_usd": "36499.55780838065133988873847",
+                            "liquidity_usd": "24889.91056233967930836570303",
+                            "token_balance": "582.830543445",
+                            "token_balance_sol": "0.0001952030619370510519743228846",
+                            "token_balance_usd": "0.02692435833297745159881835547"
+                        }
+                    ]
+                },
+                "4831": {
+                    "type": "positions",
+                    "current_page": 1,
+                    "wallet_positions": [
+                        {
+                            "token_address": "GAMwtMB6onAvBNBQJCJFuxoaqfPH8uCQ2dewNMVVpump",
+                            "name": "AgentTank",
+                            "symbol": "TANK",
+                            "supply": 999965829175200,
+                            "decimals": 6,
+                            "pair_address": "7fbTnN92i1NGAcMqw7qtWfvZQ1M1NDfcv9Pc4bsyZ1qz",
+                            "token_price_usd": "0.004095542818480027387399313043",
+                            "fdv_usd": "4095402.870403916208181159019",
+                            "liquidity_usd": "481947.2461420425295250424825",
+                            "token_balance": "581.776778",
+                            "token_balance_sol": "0.01730286994006280956241915792",
+                            "token_balance_usd": "2.382691705096349190792930141"
+                        },
+                        {
+                            "token_address": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC",
+                            "name": "ai16z",
+                            "symbol": "ai16z",
+                            "supply": 1099998875421246811,
+                            "decimals": 9,
+                            "pair_address": "8sN9549P3Zn6xpQRqpApN57xzkCh6sJxLwuEjcG2W4Ji",
+                            "token_price_usd": "0.3438390091769130753787036740",
+                            "fdv_usd": "378222523.4205601450025386082",
+                            "liquidity_usd": "3459118.619507972049167860524",
+                            "token_balance": "0.393755053",
+                            "token_balance_sol": "0.0009831766986087861324725642514",
+                            "token_balance_usd": "0.1353883472819228943721344602"
+                        },
+                        {
+                            "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+                            "name": "Bonk",
+                            "symbol": "Bonk",
+                            "supply": 8886359974108404360,
+                            "decimals": 5,
+                            "pair_address": "6oFWm7KPLfxnwMb3z5xwBoXNSPP3JJyirAPqPSiVcnsp",
+                            "token_price_usd": "0.00001365150956929693712458428299",
+                            "fdv_usd": "1213122282.227581645425939339",
+                            "liquidity_usd": "935027.0303691803092321322063",
+                            "token_balance": "9387.12328",
+                            "token_balance_sol": "0.0009306009461173526866481346590",
+                            "token_balance_usd": "0.1281484032850900517148813832"
+                        },
+                        {
+                            "token_address": "pGmqZA8iruRh7dtRH4x22cU4H5wPPWsJUA9h9vapump",
+                            "name": "Artificial Isle Clams",
+                            "symbol": "clams",
+                            "supply": 989754005073480,
+                            "decimals": 6,
+                            "pair_address": "CPZngqrx3ryo5XLKEfJNRnwkLnfH6wcKcg4344XjPK47",
+                            "token_price_usd": "0.00003298364166122902809322923972",
+                            "fdv_usd": "32645.69143610992176679826238",
+                            "liquidity_usd": "29241.90478452140863652175540",
+                            "token_balance": "1889.992992",
+                            "token_balance_sol": "0.0004526985337523118347421980736",
+                            "token_balance_usd": "0.06233885159036210120317438573"
+                        },
+                        {
+                            "token_address": "B4eppPm1Dj5Nd7KsN1cdJfQgWSSqqSfi9BsNZYkUkXm2",
+                            "name": "JINX",
+                            "symbol": "JINX",
+                            "supply": 790104516136418180,
+                            "decimals": 9,
+                            "pair_address": "H72LGm51KajBhJniXh3Q3VakQzXToEuBHFvfAWPT9JmR",
+                            "token_price_usd": "0.00004612050268531996171854149013",
+                            "fdv_usd": "36440.01745815310369578321418",
+                            "liquidity_usd": "24849.30859122007930949393994",
+                            "token_balance": "582.830543445",
+                            "token_balance_sol": "0.0001952030619370510519743228846",
+                            "token_balance_usd": "0.02688043764404161511212413282"
+                        }
+                    ]
+                },
+                "4862": {
+                    "type": null,
+                    "current_token": "GAMwtMB6onAvBNBQJCJFuxoaqfPH8uCQ2dewNMVVpump"
+                },
+                "4865": {
+                    "type": null,
+                    "current_token": "GAMwtMB6onAvBNBQJCJFuxoaqfPH8uCQ2dewNMVVpump"
+                }
+            },
+            "awaiting_input": null,
+            "dialogs": {},
+            "portfolio": {
+                "native_token": "0.097385043000000004465022129807039164006710052490234375",
+                "native_token_usd_worth": "13.48490690421000061827161431",
+                "tokens": {
+                    "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC": {
+                        "name": "ai16z",
+                        "symbol": "ai16z",
+                        "supply": 1099998853990573127,
+                        "decimals": 9,
+                        "pair_address": "8sN9549P3Zn6xpQRqpApN57xzkCh6sJxLwuEjcG2W4Ji",
+                        "token_price_usd": "0.3453573943552710884144198450",
+                        "fdv_usd": "379892738.0079686258189964492",
+                        "liquidity_usd": "3476298.302569974190410235609",
+                        "token_balance": "0.393755053",
+                        "token_balance_sol": "0.0009820626786907031721527231317",
+                        "token_balance_usd": "0.1359862191183016682479875720"
+                    },
+                    "GAMwtMB6onAvBNBQJCJFuxoaqfPH8uCQ2dewNMVVpump": {
+                        "name": "AgentTank",
+                        "symbol": "TANK",
+                        "supply": 999965829175200,
+                        "decimals": 6,
+                        "pair_address": "7fbTnN92i1NGAcMqw7qtWfvZQ1M1NDfcv9Pc4bsyZ1qz",
+                        "token_price_usd": "0.004337717477785444697260803762",
+                        "fdv_usd": "4337569.254401479392938063574",
+                        "liquidity_usd": "497417.7291054775344491645228",
+                        "token_balance": "581.776778",
+                        "token_balance_sol": "0.01822476563949088316075377944",
+                        "token_balance_usd": "2.523583298100302591269575839"
+                    },
+                    "pGmqZA8iruRh7dtRH4x22cU4H5wPPWsJUA9h9vapump": {
+                        "name": "Artificial Isle Clams",
+                        "symbol": "clams",
+                        "supply": 989754005073480,
+                        "decimals": 6,
+                        "pair_address": "CPZngqrx3ryo5XLKEfJNRnwkLnfH6wcKcg4344XjPK47",
+                        "token_price_usd": "0.00003316687746146024850273739388",
+                        "fdv_usd": "32827.04980326161625974768811",
+                        "liquidity_usd": "29404.35391244093862894715130",
+                        "token_balance": "1889.992992",
+                        "token_balance_sol": "0.0004526985337523118347421980736",
+                        "token_balance_usd": "0.06268516596868261975675216725"
+                    },
+                    "B4eppPm1Dj5Nd7KsN1cdJfQgWSSqqSfi9BsNZYkUkXm2": {
+                        "name": "JINX",
+                        "symbol": "JINX",
+                        "supply": 790104516136418180,
+                        "decimals": 9,
+                        "pair_address": "H72LGm51KajBhJniXh3Q3VakQzXToEuBHFvfAWPT9JmR",
+                        "token_price_usd": "0.00004637671839683566391319443839",
+                        "fdv_usd": "36642.45464892676568574199678",
+                        "liquidity_usd": "24987.35529302671930565793445",
+                        "token_balance": "582.830543445",
+                        "token_balance_sol": "0.0001952030619370510519743228846",
+                        "token_balance_usd": "0.02702976798642345916688448983"
+                    },
+                    "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263": {
+                        "name": "Bonk",
+                        "symbol": "Bonk",
+                        "supply": 8886359973850351673,
+                        "decimals": 5,
+                        "pair_address": "6oFWm7KPLfxnwMb3z5xwBoXNSPP3JJyirAPqPSiVcnsp",
+                        "token_price_usd": "0.00001366164136506269735680097888",
+                        "fdv_usd": "1214022630.035914340175961865",
+                        "liquidity_usd": "939116.5117732952537233040744",
+                        "token_balance": "9387.12328",
+                        "token_balance_sol": "0.0009261465422184662744104927795",
+                        "token_balance_usd": "0.1282435117009910250176209352"
+                    }
+                },
+                "sol_worth": "0.1181659194560894199590556462",
+                "usd_worth": "16.36243486708470198173043532"
+            }
+        }
+    },
+    "referral_codes_to_users": {
+        "KQFGMN": {
+            "user_id": "5394040675",
+            "referred_users": []
+        },
+        "LDHCK8": {
+            "user_id": "5045644660",
+            "referred_users": []
+        }
+    }
+}

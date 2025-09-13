@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "service-default"
+version = "0.0.1"
+description = "Telegram bot for solana trading"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+python-telegram-bot = "^21.10"
+fastapi = "^0.115.8"
+solana = "^0.36.6"
+requests = "^2.32.3"
+retry-reloaded = "^0.0.8"
+google-cloud-logging = "^3.11.4"
+fastapi-gae-logging = "^0.0.9"
+google-cloud-tasks = "^2.19.1"
+
+
+[tool.poetry.group.dev.dependencies]
+uvicorn = "^0.34.0"
+pyngrok = "^7.2.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,7 @@
+queue:
+- name: delete-tg-messages
+  mode: push
+  max_concurrent_requests: 5000
+  rate: 500/s
+  retry_parameters:
+    task_age_limit: 48h

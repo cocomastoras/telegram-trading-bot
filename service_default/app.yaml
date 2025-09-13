@@ -1,0 +1,16 @@
+service: api
+runtime: python312
+instance_class: F1
+
+automatic_scaling:
+  target_cpu_utilization: 0.85
+  target_throughput_utilization: 0.8
+  max_concurrent_requests: 100
+  max_pending_latency: 2s
+
+handlers:
+- url: /.*
+  secure: always
+  script: main.app
+
+entrypoint: gunicorn -b :$PORT -w 2 main:app
